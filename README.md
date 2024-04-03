@@ -154,3 +154,30 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 * _Reaver performs a brute force attack against an access point's Wi-Fi Protected Setup pin number. Once the WPS pin is found, the WPA PSK can be recovered and alternately the AP's wireless settings can be reconfigured. This package also provides the Wash executable, an utility for identifying WPS enabled access points._
 [Video Tutorial]()
 
+#### wifite ####
+* _To attack multiple WEP, WPA, and WPS encrypted networks in a row. This tool is customizable to be automated with only a few arguments. Wifite aims to be the "set it and forget it" wireless auditing tool._
+[Video Tutorial]()
+
+## Revearse Engineering ##
+
+#### NASM shell ####
+* _Netwide Assembler. NASM will currently output flat-form binary files, a. out, COFF and ELF Unix object files, and Microsoft 16-bit DOS and Win32 object files. Also included is NDISASM, a prototype x86 binary-file disassembler which uses the same instruction table as NASM._
+[Video Tutorial]()
+
+#### Clang ####
+* _The Clang tool is a front end compiler that is used to compile programming languages such as C++, C, Objective C++ and Objective C into machine code. Clang is also used as a compiler for frameworks like OpenMP, OpenCL, RenderScript, CUDA and HIP._
+[Video Tutorial]()
+
+#### Clang++ ####
+* _Clang++ is a C++ compiler included in the LLVM (Low Level Virtual Machine) compiler infrastructure project. LLVM is a collection of modular and reusable compiler and toolchain technologies used to develop front ends and back ends for programming languages. Clang++ specifically focuses on compiling C++ code._
+
+* _Kali Linux, on the other hand, is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It's widely used by security professionals and enthusiasts for various cybersecurity-related tasks._
+[Video Tutorial]()
+
+#### Radare2 ####
+* _Radare2 is a powerful, open-source framework for reverse engineering and analyzing binary files. It provides a wide array of tools and utilities for disassembling, debugging, analyzing, and manipulating binary files, making it a valuable asset for security researchers, malware analysts, and software developers._
+
+* _Radare2 is included in the Kali Linux distribution, which is a Debian-based Linux distribution specifically tailored for penetration testing, digital forensics, and security auditing. Kali Linux is widely used by security professionals and enthusiasts due to its extensive collection of pre-installed tools for various security tasks._
+[Video Tutorial]()
+
+## Exploitation tools ##

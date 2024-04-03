@@ -60,6 +60,33 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 * _Burp Suite is an integrated platform for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, through to finding and exploiting security vulnerabilities._
 [Video Tutorial]()
 
-#### Burpsuite ####
-* _Burp Suite is an integrated platform for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, through to finding and exploiting security vulnerabilities._
+#### Commix ####
+* _Command injection exploiter (commix) is an automated tool written in Python that is pre-compiled in Kali Linux to perform various OS commands if the application is vulnerable to command injection. It allows attackers to inject into any specific vulnerable parts of the application, or even into an HTTP header._
 [Video Tutorial]()
+
+#### Skipfish ####
+* _Skipfish is an active web application security reconnaissance tool. It prepares an interactive sitemap for the targeted site by carrying out a recursive crawl and dictionary-based probes. The resulting map is then annotated with the output from a number of active (but hopefully non-disruptive) security checks._
+[Video Tutorial]()
+
+#### Sqlmap ####
+* _sqlmap goal is to detect and take advantage of SQL injection vulnerabilities in web applications. Once it detects one or more SQL injections on the target host, the user can choose among a variety of options to perform an extensive back-end database management system fingerprint, retrieve DBMS session user and database, enumerate users, password hashes, privileges, databases, dump entire or user’s specific DBMS tables/columns, run his own SQL statement, read specific files on the file system and more._
+[Video Tutorial]()
+
+#### Webshells ####
+* _Web shells are the scripts which are coded in many languages like PHP, Python, ASP, Perl and so on which further use as backdoor for illegitimate access in any server by uploading it on a web server. The attacker can then directly perform the read and write operation once the backdoor is uploaded to a destination, you can edit any file of delete the server file. Today we are going to explore all kinds of php web shells what-so-ever are available in Kali Linux and so on._
+[Video Tutorial]()
+
+#### Wpscan ####
+* _This is a command line tool used in Kali Linux. This tool can be used to find any vulnerable plugins, themes, or backups running on the site. It is usually used by individual WordPress site owners to test their own websites for vulnerabilities and also by large organizations to maintain a secure website._
+[Video Tutorial]()
+
+## Database Assessment ##
+
+#### sqlite database browser ####
+* _Its interface is based on QT, and is meant to be used for users and developers that want to create databases, edit and search data using a familiar spreadsheet-like interface, without the need to learn complicated SQL commands. Controls and wizards are available for users to: Create and compact database files._
+[Video Tutorial]()
+
+#### Sqlmap ####
+* _sqlmap goal is to detect and take advantage of SQL injection vulnerabilities in web applications. Once it detects one or more SQL injections on the target host, the user can choose among a variety of options to perform an extensive back-end database management system fingerprint, retrieve DBMS session user and database, enumerate users, password hashes, privileges, databases, dump entire or user’s specific DBMS tables/columns, run his own SQL statement, read specific files on the file system and more._
+[Video Tutorial]()
+

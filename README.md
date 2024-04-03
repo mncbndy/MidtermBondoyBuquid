@@ -243,3 +243,39 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 #### Wireshark ####
 * _Wireshark is a popular network protocol analyzer that is widely used for network troubleshooting, analysis, software and communications protocol development, and education. It lets you capture and interactively browse the traffic running on a computer network in real time._
 [Video Tutorial]()
+
+## Post Exploitation ##
+
+#### Evil-winrm ####
+* _Evil-WinRM is a tool used for exploiting Windows systems remotely, specifically designed to facilitate post-exploitation actions on Windows networks. It is particularly popular among penetration testers and red teamers for its ease of use and effectiveness in managing compromised Windows hosts._
+[Video Tutorial]()
+
+#### Exe2hex ####
+* _exe2hex is a command-line tool available in Kali Linux, which is a Debian-derived Linux distribution designed for digital forensics and penetration testing. As of my last update in January 2022, there isn't a tool named specifically "exe2hex" in Kali Linux. However, it's possible that such a tool may have been developed or included since then._
+[Video Tutorial]()
+
+#### Impacket ####
+* _Impacket is a collection of Python classes for working with network protocols. It's particularly useful for crafting and manipulating network packets, as well as conducting various network-based attacks and assessments. Impacket is commonly used in security assessments, penetration testing, and forensics activities._
+[Video Tutorial]()
+
+#### Netcat ####
+* _Netcat, often abbreviated as "nc", is a versatile networking utility that is commonly found in Unix-like operating systems, including Kali Linux. It is known for its simplicity and power in handling TCP and UDP connections, as well as its ability to create various types of network connections. Netcat can be used for tasks such as port scanning, transferring files, port forwarding, banner grabbing, and network troubleshooting._
+[Video Tutorial]()
+
+#### Powershell Empire ####
+* _PowerShell Empire is a post-exploitation framework written in PowerShell that enables attackers to gain and maintain control over compromised Windows systems. It provides a wide range of tools and modules to facilitate various stages of post-exploitation activities, including reconnaissance, privilege escalation, lateral movement, data exfiltration, and more._
+[Video Tutorial]()
+
+#### PowerSploit ####
+* _PowerSploit is a collection of Microsoft PowerShell scripts that aid penetration testers and red teamers in post-exploitation tasks on Windows systems._
+[Video Tutorial]()
+
+#### Startkiller ####
+* _Starkiller" in Kali Linux or within the broader cybersecurity community that I'm aware of. It's possible that "Starkiller" may be a tool that emerged after my last update, or it could be a project or tool not widely recognized or documented._
+
+* _If "Starkiller" is indeed a tool or project, I would recommend checking more recent sources, such as GitHub repositories, cybersecurity forums, or other online communities focused on offensive security, penetration testing, or ethical hacking. These sources might provide more information about "Starkiller," its functionality, and how it can be used within the context of cybersecurity assessments._
+[Video Tutorial]()
+
+#### Weevely ####
+* _Weevely is a penetration testing tool used for web application security assessments. It is included in Kali Linux and is designed to be lightweight and versatile. Weevely allows security professionals, ethical hackers, and penetration testers to create a backdoor shell on a target web server, enabling them to execute various commands and perform post-exploitation tasks._
+[Video Tutorial]()

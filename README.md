@@ -38,3 +38,6 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 #### Spiderfoot ####
 * _This package contains an open source intelligence (OSINT) automation tool. Its goal is to automate the process of gathering intelligence about a given target, which may be an IP address, domain name, hostname, network subnet, ASN, e-mail address or person's name._
 [Video Tutorial]()
+
+
+## Vulnerability Analysis ##

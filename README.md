@@ -53,7 +53,7 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 ####  Unix-privesc-check ####
 * _Unix-privesc-checker is a script that runs on Unix systems (tested on Solaris 9, HPUX 11, Various Linuxes, FreeBSD 6.2). It tries to find misconfigurations that could allow local unprivileged users to escalate privileges to other users or to access local apps (e.g. databases)._
 
- _It is written as a single shell script so it can be easily uploaded and run (as opposed to un-tarred, compiled and installed). It can run either as a normal user or as root (obviously it does a better job when running as root because it can read more files)._
+* _It is written as a single shell script so it can be easily uploaded and run (as opposed to un-tarred, compiled and installed). It can run either as a normal user or as root (obviously it does a better job when running as root because it can read more files)._
 [Video Tutorial]()
 
 #### Burpsuite ####
@@ -99,7 +99,7 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 #### Crunch ####
 * _In order to hack a password, we have to try a lot of passwords to get the right one. When an attacker uses thousands or millions of words or character combinations to crack a password there is no surety that any one of those millions of combinations will work or not. This collection of a different combination of characters is called a wordlist. And in order to crack a password or a hash, we need to have a good wordlist which could break the password. So to do so we have a tool in kali Linux called crunch_
 
-_crunch is a wordlist generating tool that comes pre-installed with Kali Linux. It is used to generate custom keywords based on wordlists. It generates a wordlist with permutation and combination. We could use some specific patterns and symbols to generate a wordlist._
+* _crunch is a wordlist generating tool that comes pre-installed with Kali Linux. It is used to generate custom keywords based on wordlists. It generates a wordlist with permutation and combination. We could use some specific patterns and symbols to generate a wordlist._
 [Video Tutorial]()
 
 #### Hashcat ####
@@ -129,7 +129,7 @@ _crunch is a wordlist generating tool that comes pre-installed with Kali Linux. 
 #### Wordlists ####
 * _wordlist can be referred to as a password dictionary since it is a collection of passwords stored as plain text. Kali Linux is the most advanced penetration testing distribution. It is primarily designed for penetration testing and digital forensics hence funded and maintained by Offensive Security._
 
-_Most Kali Linux wordlists can be downloaded online, including those provided in this article. In addition, there are a collection of common and uncommon passwords that are still or were once used by real people. Remember, you can also create your wordlist if you prefer to or stick to the ones already compiled. Wordlists are derived from data breaches such as circumstances where the company gets hacked. Data stolen from the hacked companies are leaked on websites such as Pastebin or sold on the dark web._
+* _Most Kali Linux wordlists can be downloaded online, including those provided in this article. In addition, there are a collection of common and uncommon passwords that are still or were once used by real people. Remember, you can also create your wordlist if you prefer to or stick to the ones already compiled. Wordlists are derived from data breaches such as circumstances where the company gets hacked. Data stolen from the hacked companies are leaked on websites such as Pastebin or sold on the dark web._
 [Video Tutorial]()
 
 ## Wireless Attacks ##

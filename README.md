@@ -5,4 +5,4 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 ## Information Gathering ##
 #### Maltego ####
 * _Maltego is an open source intelligence and forensics application. It will offer you timous mining and gathering of information as well as the representation of this information in a easy to understand format. This package replaces previous packages matlegoce and casefile._
-[Video Tutorial]([maltego.png](https://youtu.be/kmOIhvsklv8?si=pD3N6Y3FGQiFAVEw))
+[Video Tutorial](https://youtu.be/kmOIhvsklv8?si=pD3N6Y3FGQiFAVEw)

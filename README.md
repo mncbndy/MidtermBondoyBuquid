@@ -181,3 +181,65 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 [Video Tutorial]()
 
 ## Exploitation tools ##
+
+#### Crackmapexec ####
+* _The Metasploit Framework is an open-source penetration testing platform developed by Rapid7. It provides a suite of tools and utilities for exploiting vulnerabilities in systems, networks, and applications. It's widely used by security professionals, researchers, and hackers to test the security posture of systems and to develop and execute exploits._
+[Video Tutorial]()
+
+#### MSF Payload Creator ####
+* _In Kali Linux, the "MSF Payload Creator" is a tool within the Metasploit Framework (MSF) used to generate various payloads for exploitation purposes. Metasploit Framework is a powerful open-source tool used by security professionals and hackers alike for penetration testing, vulnerability assessment, and exploitation._
+[Video Tutorial]()
+
+#### Searchsploit ####
+* _Searchsploit is a command-line utility available in Kali Linux, a popular Linux distribution widely used for penetration testing and digital forensics. Searchsploit is a part of the Exploit Database project, which is a repository of exploits and vulnerable software. Its primary purpose is to search this database for known exploits related to specific software vulnerabilities._
+[Video Tutorial]()
+
+#### Social Engineering Toolkit ####
+* _The Social Engineering Toolkit (SET) is a powerful and versatile tool included in Kali Linux, a popular Linux distribution designed for penetration testing and ethical hacking. SET is specifically designed to automate various social engineering attacks, allowing security professionals to simulate real-world scenarios and assess the security posture of an organization or system._
+[Video Tutorial]()
+
+#### Sqlmap ####
+* _sqlmap goal is to detect and take advantage of SQL injection vulnerabilities in web applications. Once it detects one or more SQL injections on the target host, the user can choose among a variety of options to perform an extensive back-end database management system fingerprint, retrieve DBMS session user and database, enumerate users, password hashes, privileges, databases, dump entire or user’s specific DBMS tables/columns, run his own SQL statement, read specific files on the file system and more._
+[Video Tutorial]()
+
+## Sniffing & Spoofing ##
+
+#### Ettercap-graphical ####
+* _Ettercap-Graphical is a powerful network security tool included in Kali Linux, a popular Linux distribution used for penetration testing and digital forensics. It's a graphical user interface (GUI) for Ettercap, which is primarily a command-line network sniffer and man-in-the-middle (MITM) attack tool._
+[Video Tutorial]()
+
+#### Ettercap-graphical ####
+* _Ettercap-Graphical is a powerful network security tool included in Kali Linux, a popular Linux distribution used for penetration testing and digital forensics. It's a graphical user interface (GUI) for Ettercap, which is primarily a command-line network sniffer and man-in-the-middle (MITM) attack tool._
+[Video Tutorial]()
+
+#### Macchanger ####
+* _macchanger is a command-line utility tool available in Kali Linux and other Unix-like operating systems. It is primarily used to manipulate the Media Access Control (MAC) address of network interfaces. The MAC address is a unique identifier assigned to network interfaces, such as Ethernet adapters and Wi-Fi cards._
+[Video Tutorial]()
+
+#### Minicom ####
+* _Minicom is a communication program that runs under various operating systems. It emulates ANSI and VT102 terminals, allowing you to communicate with devices such as modems, routers, and serial consoles. In Kali Linux, Minicom is often used for serial communication tasks, particularly in the realm of penetration testing and network security._
+[Video Tutorial]()
+
+#### Mitmproxy ####
+* _MITMproxy, also known as Man-in-the-Middle (MITM) Proxy, is a powerful open-source tool used for intercepting, inspecting, modifying, and replaying HTTP, HTTPS, and other network traffic. It is widely used by security professionals, penetration testers, and developers to analyze network communication between clients and servers. MITMproxy is commonly used on Kali Linux, a Linux distribution specifically designed for digital forensics and penetration testing._
+[Video Tutorial]()
+
+#### Netsniff-ng ####
+* _NetSniff-NG is a Swiss army knife for network traffic analysis and manipulation. It is a powerful toolkit available primarily for Linux-based systems, including Kali Linux, designed for network administrators, security professionals, and enthusiasts alike._
+[Video Tutorial]()
+
+#### Responder ####
+* _Responder" refers to a tool primarily used in penetration testing and network security assessments. It is designed to be run on the Kali Linux distribution, which is a Debian-based Linux distribution geared towards digital forensics and penetration testing._
+[Video Tutorial]()
+
+#### Scapy ####
+* _Scapy is a powerful Python-based interactive packet manipulation tool and library used for network analysis and penetration testing. It is pre-installed in Kali Linux, a popular Linux distribution specifically designed for penetration testing, digital forensics, and security auditing._
+[Video Tutorial]()
+
+#### Tcpdump ####
+* _TCPDump is a powerful command-line packet analyzer available in Kali Linux and many other Unix-like operating systems. It allows users to capture and analyze network packets transmitted and received over a network interface in real-time or saved to a file for later analysis._
+[Video Tutorial]()
+
+#### Wireshark ####
+* _Wireshark is a popular network protocol analyzer that is widely used for network troubleshooting, analysis, software and communications protocol development, and education. It lets you capture and interactively browse the traffic running on a computer network in real time._
+[Video Tutorial]()

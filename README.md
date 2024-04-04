@@ -1,6 +1,6 @@
 # Midterm Project #
 
-by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1394210640863600) and [Ed Jim Buquid](https://www.facebook.com/photo/?fbid=520338565213604&set=a.101296593784472)
+by [Monica Bondoy](https://www.facebook.com/mncgmbnbndy) and [Ed Jim Buquid](https://www.facebook.com/photo/?fbid=520338565213604&set=a.101296593784472)
 
 ## Information Gathering ##
 #### Amass ####
@@ -214,7 +214,7 @@ by [Monica Bondoy](https://www.facebook.com/photo/?fbid=3774870382797602&set=a.1
 
 #### Macchanger ####
 * _macchanger is a command-line utility tool available in Kali Linux and other Unix-like operating systems. It is primarily used to manipulate the Media Access Control (MAC) address of network interfaces. The MAC address is a unique identifier assigned to network interfaces, such as Ethernet adapters and Wi-Fi cards._
-[Video Tutorial](https://www.youtube.com/watch?v=bshXz5r-CQA))
+[Video Tutorial](https://www.youtube.com/watch?v=bshXz5r-CQA)
 
 #### Minicom ####
 * _Minicom is a communication program that runs under various operating systems. It emulates ANSI and VT102 terminals, allowing you to communicate with devices such as modems, routers, and serial consoles. In Kali Linux, Minicom is often used for serial communication tasks, particularly in the realm of penetration testing and network security._

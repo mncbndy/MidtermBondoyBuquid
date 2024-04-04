@@ -44,7 +44,7 @@ by [Monica Bondoy](https://www.facebook.com/mncgmbnbndy) and [Ed Jim Buquid](htt
 
 #### Nikto ####
 * _Nikto is a pluggable web server and CGI scanner written in Perl, using rfp's LibWhisker to perform fast security or informational checks. Features: Easily updatable CSV-format checks database. Output reports in plain text or HTML._
-[Video Tutorial]((https://www.youtube.com/watch?v=vH6FkiFhG9A)
+[Video Tutorial](https://www.youtube.com/watch?v=vH6FkiFhG9A)
 
 ####  Nmap ####
 * _Nmap is a utility for network exploration or security auditing. It supports ping scanning (determine which hosts are up), many port scanning techniques, version detection (determine service protocols and application versions listening behind ports), and TCP/IP fingerprinting (remote host OS or device identification)._
@@ -88,7 +88,7 @@ by [Monica Bondoy](https://www.facebook.com/mncgmbnbndy) and [Ed Jim Buquid](htt
 
 #### Sqlmap ####
 * _sqlmap goal is to detect and take advantage of SQL injection vulnerabilities in web applications. Once it detects one or more SQL injections on the target host, the user can choose among a variety of options to perform an extensive back-end database management system fingerprint, retrieve DBMS session user and database, enumerate users, password hashes, privileges, databases, dump entire or user’s specific DBMS tables/columns, run his own SQL statement, read specific files on the file system and more._
-[Video Tutorial]((https://www.youtube.com/watch?v=nVj8MUKkzQk&t=28s)
+[Video Tutorial](https://www.youtube.com/watch?v=nVj8MUKkzQk&t=28s)
 
 ## Password Attacks ##
 
@@ -112,7 +112,7 @@ by [Monica Bondoy](https://www.facebook.com/mncgmbnbndy) and [Ed Jim Buquid](htt
 
 #### John ####
 * _John the Ripper is a tool designed to help systems administrators to find weak (easy to guess or crack through brute force) passwords, and even automatically mail users warning them about it, if it is desired._
-[Video Tutorial]((https://www.youtube.com/watch?v=XjVYl1Ts6XI)
+[Video Tutorial](https://www.youtube.com/watch?v=XjVYl1Ts6XI)
 
 #### Medusa ####
 * _In today’s world, the majority of people are generally aware that malicious users and hackers can steal their confidential information through various attacks. However, most people don’t really understand the specific attacks that they are vulnerable to. So in this article, We are going to learn about Password Attacks. Password Attacks means a third party trying to gain access to your systems by cracking a user’s password,it may sound illegal but it depends on us whether we want to use it for good things or bad things. Password Attacks are useful in various Cyber Events as well as we can perform it on our own system in case we forgot the password. In this article, we are going to perform brute force attacks with the help of the Medusa tool in Kali Linux._
